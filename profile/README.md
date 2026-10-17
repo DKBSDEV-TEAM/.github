@@ -25,10 +25,6 @@
 
 **DKB Solutions** is an Abidjan-based integrator of information systems, telecommunications, and trust services. The company puts the information system at the service of performance and added value: study and advice, deployment, and maintenance across the full life cycle of a customer’s systems.
 
-DKB Solutions is approved by the **Autorité de Régulation des Télécommunications de Côte d’Ivoire (ARTCI)** as a **Prestataire de Services de Certification Électronique (PSCE)**, under Law n°2013-546 of 30 July 2013 on electronic transactions and Decree n°2014-106 of 12 March 2014 on the conditions for creating and keeping electronic writings and signatures. That approval was reviewed on site by ARTCI in 2022.
-
-The engineering work in this organization builds **DKBSign**: the platforms that issue certificates, sign documents, run approval workflows, store evidence, and let companies integrate trust into their own applications.
-
 ## Why DKB Solutions
 
 - A multi-skilled practice that stays with a project from design through operation
